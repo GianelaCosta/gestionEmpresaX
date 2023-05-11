@@ -1,0 +1,62 @@
+[{
+    "id": 51,
+    "name": "Clotilda Wethers",
+    "email": "cwethers0@pen.io",
+    "ci": 44568976,
+    "cargo": "Administrativo",
+    "role": "Admin"
+  }, {
+    "id": 87,
+    "name": "Waverly Sprowle",
+    "email": "wsprowle1@opera.com",
+    "ci": 45216791,
+    "cargo": "Limpieza",
+    "role":  "User"
+  }, {
+    "id": 7,
+    "name": "Hernando Stiell",
+    "email": "hstiell2@unicef.org",
+    "ci": 46726622,
+    "cargo": "Limpieza",
+    "role": "User"
+  }, {
+    "id": 19,
+    "name": "Miquela Lynagh",
+    "email": "mlynagh3@rakuten.co.jp",
+    "ci": 43021740,
+    "cargo": "Administrativo",
+    "role": "Admin"
+  },
+  {
+    "id": 1,
+    "name": "Gianela Costa",
+    "email": "gianela.costa@gmail.com",
+    "ci": 41981996,
+    "cargo": "Administrativo",
+    "role": "Admin"
+  },
+  {
+    "id": 2,
+    "name": "L Pax",
+    "email": "lpaz@globaluy.com",
+    "ci": 12345678,
+    "cargo": "Administrativo",
+    "role": "Admin"
+  },
+  {
+    "id": 3,
+    "name": "B Stefanovich",
+    "email": "bstefanovich@globaluy.com",
+    "ci": 23456789,
+    "cargo": "Administrativo",
+    "role": "Admin"
+  },
+  {
+    "id": 4,
+    "name": "Admin User",
+    "email": "admin@admin.com",
+    "ci": 11111111,
+    "cargo": "Administrativo",
+    "role": "Admin"
+  }
+]

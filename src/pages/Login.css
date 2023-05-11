@@ -1,0 +1,55 @@
+.login-page {
+  position: relative;
+}
+
+.login-background {
+  display: block;
+  width: auto;
+  height: 100%;
+}
+
+.login-container {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 400px;
+  background-color: #fafaff;
+  padding: 40px;
+  border-radius: 8px;
+  width: 250px;
+  box-shadow: 2px 2px 4px 0px #00000040;
+}
+
+.login-company-logo {
+  padding-bottom: 25px;
+}
+
+/* !important needs to be added to override semantic-ui styles. */
+
+.login-label {
+  color: #006eaa !important;
+  text-transform: uppercase !important;
+}
+
+.login-input {
+  border: none !important;
+  border-bottom: 1.5px solid #006eaa !important;
+  border-radius: 4px !important;
+}
+
+.login-button {
+  background: linear-gradient(
+    266.11deg,
+    #006eaa -13.92%,
+    #1da2fc 115.58%
+  ) !important;
+  color: #fafaff !important;
+  width: 100%;
+  margin-bottom: 14px !important;
+}
+
+.error-message {
+  color: red;
+  font-size: 12px;
+}

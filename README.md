@@ -1,70 +1,68 @@
-# Getting Started with Create React App
+# Project Name
+Company X Cleaning Management System
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Project Description
+This is a web-based application designed to manage the cleaning services of a company. 
+The system allows administrative employees to manage user accounts, view a list of all users, manage product inventory, view and manage user requests, and handle requests approvals and rejections.
 
-## Available Scripts
+# Installation
+To use this project, you will need to have the following installed:
 
-In the project directory, you can run:
+Node.js
+Git
 
-### `npm start`
+## To install the project, please follow these steps:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Clone the repository from Github
+Install the dependencies by running npm install
+Start the application by running npm start
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+# Users
 
-### `npm test`
+This application is intended to be used just by administrator users, so the available users for testing are
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+admin@admin.com
+lpaz@globaluy.com
+bstefanovich@globaluy.com
 
-### `npm run build`
+As there is no API for authorization password could be anything, the only validation is that the field is not empty
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+To Access with Google, please use these users:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+lpaz@globaluy.com
+bstefanovich@globaluy.com
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+# Features
+The main features of the application are:
 
-### `npm run eject`
+User authentication with email, password, and Google authentication
+Create new users
+View a list of all users.
+Search for a user.
+View a list of all requests
+Approve or reject requests
+Manage product inventory
+Log out
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+# Technologies Used
+The application was built using the following technologies:
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+React
+Redux Toolkit
+React-Router-DOM
+Semantic UI React
+styled-components
+react-google-login
+gapi-script
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## Future Improvements
+Some possible improvements for this project are:
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Implementing real API calls instead of dummy data
+Adding pagination to the user and requests lists
+Allowing users to edit their own profiles
+Implementing a dashboard for data visualization and analytics
+Extending the usage of the application to other types of users, rather than Administrators.
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+# Credits
+This project was created by Gianela Costa.

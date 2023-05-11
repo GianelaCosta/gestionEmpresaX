@@ -1,0 +1,64 @@
+/* !important needs to be added to override semantic-ui styles. */
+
+body {
+  background: linear-gradient(
+    245.71deg,
+    #e2efff 9.64%,
+    #f4f6ff 51.04%,
+    #fafaff 83.05%,
+    #fafaff 105.29%
+  ) !important;
+}
+
+.page-container {
+  display: flex;
+}
+
+.page-content {
+  background: #fafaff !important;
+  margin: 27px;
+  border-radius: 4px;
+  width: 100%;
+  padding: 20px;
+}
+
+.page-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.create-btn {
+  background: linear-gradient(
+    266.11deg,
+    #006eaa -13.92%,
+    #1da2fc 115.58%
+  ) !important;
+  color: #fafaff !important;
+}
+
+.action-btn-completed {
+  background: #fafaff !important;
+}
+
+.action-btn-rejected {
+  background: #fafaff !important;
+  color: red !important;
+}
+
+.action-btn-delete {
+  background: #fafaff !important;
+}
+
+.action-btn-delete:hover {
+  color: red !important;
+}
+
+.action-btn-edit {
+  background: #fafaff !important;
+}
+
+.action-btn-edit:hover {
+  background: #fafaff !important;
+  color: #006eaa !important;
+}
