@@ -4,28 +4,32 @@
     "email": "cwethers0@pen.io",
     "ci": 44568976,
     "cargo": "Administrativo",
-    "role": "Admin"
+    "role": "Admin",
+    "clientDirection": "20505 South Dixie Highway"
   }, {
     "id": 87,
     "name": "Waverly Sprowle",
     "email": "wsprowle1@opera.com",
     "ci": 45216791,
     "cargo": "Limpieza",
-    "role":  "User"
+    "role":  "User",
+    "clientDirection": "20505 South Dixie Highway"
   }, {
     "id": 7,
     "name": "Hernando Stiell",
     "email": "hstiell2@unicef.org",
     "ci": 46726622,
     "cargo": "Limpieza",
-    "role": "User"
+    "role": "User",
+    "clientDirection": "20505 South Dixie Highway"
   }, {
     "id": 19,
     "name": "Miquela Lynagh",
     "email": "mlynagh3@rakuten.co.jp",
     "ci": 43021740,
     "cargo": "Administrativo",
-    "role": "Admin"
+    "role": "Admin",
+    "clientDirection": "3831 West Vine Street Suite"
   },
   {
     "id": 1,
@@ -33,7 +37,8 @@
     "email": "gianela.costa@gmail.com",
     "ci": 41981996,
     "cargo": "Administrativo",
-    "role": "Admin"
+    "role": "Admin",
+    "clientDirection": "1119 S. Woodland Boulevard"
   },
   {
     "id": 2,
@@ -41,7 +46,8 @@
     "email": "lpaz@globaluy.com",
     "ci": 12345678,
     "cargo": "Administrativo",
-    "role": "Admin"
+    "role": "Admin",
+    "clientDirection": "4715 South Florida Avenue"
   },
   {
     "id": 3,
@@ -49,7 +55,8 @@
     "email": "bstefanovich@globaluy.com",
     "ci": 23456789,
     "cargo": "Administrativo",
-    "role": "Admin"
+    "role": "Admin",
+    "clientDirection": "4715 South Florida Avenue"
   },
   {
     "id": 4,
@@ -57,6 +64,7 @@
     "email": "admin@admin.com",
     "ci": 11111111,
     "cargo": "Administrativo",
-    "role": "Admin"
+    "role": "Admin",
+    "clientDirection": "4715 South Florida Avenue"
   }
 ]
