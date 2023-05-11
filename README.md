@@ -68,6 +68,7 @@ gapi-script
 Some possible improvements for this project are:
 
 Implementing real API calls instead of dummy data
+Imporve UI for mobile
 Adding pagination to the user and requests lists
 Allowing users to edit their own profiles
 Implementing a dashboard for data visualization and analytics
